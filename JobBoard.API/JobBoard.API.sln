@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobBoard.API", "JobBoard.API\JobBoard.API.csproj", "{06E814C1-2CE8-4A04-A847-24A97F4A959A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobBoard.API", "JobBoard.API\JobBoard.API.csproj", "{06E814C1-2CE8-4A04-A847-24A97F4A959A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobBoard.DB", "JobBoard.DB\JobBoard.DB.csproj", "{698D1D58-03F9-4D05-962C-D8515BED9A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{06E814C1-2CE8-4A04-A847-24A97F4A959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06E814C1-2CE8-4A04-A847-24A97F4A959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06E814C1-2CE8-4A04-A847-24A97F4A959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698D1D58-03F9-4D05-962C-D8515BED9A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698D1D58-03F9-4D05-962C-D8515BED9A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698D1D58-03F9-4D05-962C-D8515BED9A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698D1D58-03F9-4D05-962C-D8515BED9A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
