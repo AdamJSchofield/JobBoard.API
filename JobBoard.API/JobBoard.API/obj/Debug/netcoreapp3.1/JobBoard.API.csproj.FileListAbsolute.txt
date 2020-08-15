@@ -1,9 +1,0 @@
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\JobBoard.API.csprojAssemblyReference.cache
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\JobBoard.API.AssemblyInfoInputs.cache
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\JobBoard.API.AssemblyInfo.cs
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\JobBoard.API.RazorTargetAssemblyInfo.cache
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\staticwebassets\JobBoard.API.StaticWebAssets.Manifest.cache
-C:\Users\Adam Schofield\Documents\Git\JobBoard.API\JobBoard.API\JobBoard.API\obj\Debug\netcoreapp3.1\staticwebassets\JobBoard.API.StaticWebAssets.xml

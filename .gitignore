@@ -232,3 +232,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+JobBoard.API/JobBoard.API/obj/Debug/netcoreapp3.1/JobBoard.API.csproj.FileListAbsolute.txt
+
+JobBoard.API/JobBoard.API/obj/Debug/netcoreapp3.1/JobBoard.API.csprojAssemblyReference.cache
+
+JobBoard.API/JobBoard.API/obj/Debug/netcoreapp3.1/staticwebassets/JobBoard.API.StaticWebAssets.Manifest.cache
